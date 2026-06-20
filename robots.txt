@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://alejandroreyes-escultura.github.io/sitemap.xml
